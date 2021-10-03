@@ -23,6 +23,9 @@ Watkins Marine Mammal Sound Database : https://cis.whoi.edu/science/B/whalesound
 Resources : 
 
 - https://esme.bu.edu
+- https://go.aws/3l56nmA
+- https://go.aws/2YhMsba
+- https://go.aws/3ouhnfa
 - https://bit.ly/3ipRp92
 
 
@@ -61,5 +64,5 @@ Note :
 - Also, SNS is on the waiting list.
 
 
-### For TFlite, it's been trained with few audio samples that we gathered from [Here](https://cis.whoi.edu/science/B/whalesounds/index.cfm)
+#### For TFlite, it's been trained with few audio samples that we gathered from [Here](https://cis.whoi.edu/science/B/whalesounds/index.cfm)
 
